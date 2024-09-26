@@ -1,0 +1,9 @@
+com\bmt\MyStore\models\Product.class
+com\bmt\MyStore\controllers\HomeController.class
+com\bmt\MyStore\models\Client.class
+com\bmt\MyStore\controllers\ClientsController.class
+com\bmt\MyStore\MyStoreApplication.class
+com\bmt\MyStore\repositories\ClientsRepository.class
+com\bmt\MyStore\services\ProductsRepository.class
+com\bmt\MyStore\controllers\ProductsController.class
+com\bmt\MyStore\models\ClientDto.class
